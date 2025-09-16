@@ -1,14 +1,14 @@
 <?php
 /**
- * Plugin Name: WF Year Shortcode
- * Plugin URI: https://www.linkedin.com/in/weng-fung/
+ * Plugin Name: WF Current Year Shortcode
+ * Plugin URI: https://wengindustries.com/
  * Description: A simple plugin that provides a shortcode [WF_YEAR] to display the current year.
  * Version: 1.0.0
  * Author: Weng Fei Fung
- * Author URI: https://www.linkedin.com/in/weng-fung/
+ * Author URI: https://wengindustries.com/
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain: wf-year-shortcode
+ * Text Domain: wf-current-year-shortcode
  * Domain Path: /languages
  */
 
